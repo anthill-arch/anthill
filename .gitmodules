@@ -1,0 +1,6 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/anthill-arch/framework.git
+[submodule "platform"]
+	path = platform
+	url = https://github.com/anthill-arch/platform.git
